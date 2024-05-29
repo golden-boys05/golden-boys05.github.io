@@ -5,7 +5,7 @@ Regolamentazione IA - Golden Boys
 Sito web per il progetto di educazione civica del secondo quadrimestre anno 2023/24. Viene descritta l'IA e la sua regolamentazione anche con l'ausilio di TikTok in 4 continenti. 
 
 ## URL del sito web
-[francesco-leoni.github.io](https://francesco-leoni.github.io/index.html)
+[golden-boys05.github.io](https://golden-boys05.github.io/index.html)
 
 ## Membri del team
 - Francesco Leoni
