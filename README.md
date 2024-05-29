@@ -16,7 +16,7 @@ Sito web per il progetto di educazione civica del secondo quadrimestre anno 2023
   - creazione del TikTok sull'Europa e sull'Asia;
 - Kamil Zadroga
 	- creazione del TikTok sull'Africa;
-- Arturo Kananian
+- Arutun Kananian
 	- creazione contenuti scritti e TikTok sull'America;
 
 ## Date del progetto
