@@ -2,7 +2,7 @@
 Utilizzo IA nei vari paesi - GoldenBoys
 
 ## Descrizione
-Sito web per il progetto di educazione civica del secondo quadrimestre anno 2023/24. Viene descritto l'utilizzo dell'IA e la sua regolamentazione nei vari paesi con l'ausilio di TikTok in 4 continenti. 
+Sito web per il progetto di educazione civica del secondo quadrimestre dell'anno 2023/24. Viene descritto l'utilizzo dell'IA e la sua regolamentazione nei vari paesi con l'ausilio di TikTok in 4 continenti. 
 
 ## URL del sito web
 [golden-boys05.github.io](https://golden-boys05.github.io/index.html)
