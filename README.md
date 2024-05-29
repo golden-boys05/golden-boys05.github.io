@@ -1,8 +1,8 @@
 # Titolo
-Regolamentazione IA - Golden Boys
+Utilizzo IA nei vari paesi - GoldenBoys
 
 ## Descrizione
-Sito web per il progetto di educazione civica del secondo quadrimestre anno 2023/24. Viene descritta l'IA e la sua regolamentazione anche con l'ausilio di TikTok in 4 continenti. 
+Sito web per il progetto di educazione civica del secondo quadrimestre anno 2023/24. Viene descritto l'utilizzo dell'IA e la sua regolamentazione nei vari paesi con l'ausilio di TikTok in 4 continenti. 
 
 ## URL del sito web
 [golden-boys05.github.io](https://golden-boys05.github.io/index.html)
@@ -16,7 +16,7 @@ Sito web per il progetto di educazione civica del secondo quadrimestre anno 2023
   - creazione del TikTok sull'Europa e sull'Asia;
 - Kamil Zadroga
 	- creazione del TikTok sull'Africa;
-- Arutun Kananian
+- Arturo Kananian
 	- creazione contenuti scritti e TikTok sull'America;
 
 ## Date del progetto
