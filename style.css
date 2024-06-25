@@ -172,11 +172,13 @@ p {
 }
 .section-item .text-container {
     flex: 1;
-    align-content: center;
+    display: flex;
+    align-items: center;
 }
 .section-item .text-container .text {
     width: 70%;
     margin-inline: auto;
+
 }
 .text h3 {
     font-size: 50px;
